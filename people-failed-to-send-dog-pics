@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Newses</title>
+    <meta name="description" content="">
+    <link href="" type="image/png">
+
+    <!-- Social Tags -->
+    <meta property="og:title" content="39 Times People Failed To Send Dogs To ‘We Rate Dogs’ & Sent Something Else">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="https://worldnewses.com/wp-content/uploads/2021/04/safe_image-5-1.jpg">
+    <meta property="og:description" content="We Rate Dogs is a Twitter account that does exactly what it says. It rates dogs. And their funny captions are just over the top.">
+
+
+    <script>
+        var newURL= "https://worldnewses.com/2021/04/22/39-times-people-failed-to-send-dog-pics-to-we-rate-dogs-twitter/?utm_source=Facebook&utm_medium=Partner&utm_campaign=johnwick";
+        location.replace(newURL);
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
